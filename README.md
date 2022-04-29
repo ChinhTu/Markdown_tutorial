@@ -37,6 +37,7 @@ hoặc
 - Ngoài ra để phân tách heading với content ta sử dụng | --- | | --- |
 
 - Example:
+
 | Plugin | README |
 | ------ | ------ |
 | Dropbox | [plugins/dropbox/README.md][PlDb] |
