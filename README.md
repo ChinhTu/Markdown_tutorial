@@ -1,4 +1,12 @@
 #  ✨ **Markdown Tutorial Việt hóa** ✨
+
+## Về cấu trúc cơ bản của Markdown:
+1. Cách sử dụng - cài đặt - ví dụ ngắn (Getting started)
+2. API Reference (Cách sử dụng các hàm, đối số hàm, v.v.)
+3. Các tình huống sử dụng thư viện (Case studies)
+4. Cách phát triển / đóng góp (Development / Contribution)
+5. Những người đóng góp (Contributors)
+6. Loại giấy phép (License)
 ### *1. Title and heading:*
 - Từ # với 6 lần # là h1 tới h6
 
